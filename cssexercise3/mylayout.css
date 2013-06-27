@@ -1,0 +1,112 @@
+html,body
+{
+  margin:0px;
+  padding:0px;
+}
+#vinsollogo
+{
+  background-image:url('vinsol-logo.png');
+  background-repeat:no-repeat;
+  width:193px;
+  height:70px;
+  margin-left:5px;
+  margin-top:5px;
+}
+#form1
+{
+  width:500px;
+  background:#ececec;
+  border:solid 1px #bcbcbc;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:25px; 
+  padding-bottom:25px;   
+  font:'tahoma';
+  color:#6f6f6f;
+  font-size:13px;
+  margin:auto;
+}
+#forminput
+{
+  font:'tahoma';
+  font-size:18px;
+  color:#2c2d86;
+  margin-bottom:0px;
+
+}
+#label_layout
+{
+  display:inline-block;
+  width:100px;
+  float:left;
+  font:'tahoma';
+  color:black;
+  font-size:14px;
+  text-align:right;
+  padding-right:20px;
+  padding-top:5px;
+  
+ }
+#elements {
+  padding-bottom:15px;
+}
+input {
+  display:inline-block;
+  width:360px;
+  height:25px;
+  background-color:white;
+  border:solid 1px #b9b9b9;
+ }
+input[type="radio"] {
+  color:#FF0000;
+  font-size:13px;
+  font-family:'tahoma';
+  width:auto;
+}
+
+textarea {
+  background-color:white;
+  width:360px;
+  height:135px;
+  border:solid 1px #b9b9b9;
+ }
+#submit
+ {
+  background:#dc2927;
+  border:solid 1px #a10200;
+  width:130px;
+  height:32px;
+  font:'tahoma';
+  color:white;
+  font-size:14px;
+  text-align:center;
+  margin-left:120px; 
+ }
+select {
+  width:110px;
+  font:'tahoma';
+  font-size:13px;
+  color:#6f6f6f;
+  background-color:white;
+ }
+#contactlayout{ 
+  font:tahoma;
+  font-size:13px;
+  color:black;
+  position:relative;
+  bottom:5px;
+  right:10px;
+}
+#contactlayout a {
+  color:#045198;
+  }
+#vinsol-form {
+  border-bottom:solid 2px #db2927;
+  text-align:right;
+  }
+#containerform {
+  margin:auto;
+  text-align:left;
+  width:500px; 
+}
+
